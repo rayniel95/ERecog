@@ -1,0 +1,17 @@
+// NOTE - me queda la duda de si es obligatorio reducir el tamano de las 
+fotos a 21x28
+
+// NOTE - tambien me queda la duda en cuanto a los mulatos, los podria encontrar 
+entre los latinos y retaggear, pero eso va a crear bias en el dataset puesto queda
+va a ver poca proporcion de mulatos con respecto a los demas.
+
+// TODO - hacer alguna learning curve y algo interesante para mostrar tambien
+
+// TODO - las fotos a procesar deben ser cropped tambien utilizando dlib 
+para ello o alguna otra herramienta similar.
+
+// TODO - poner en el readme about how to colocar el dataset dentro de la 
+aplicacion para ejecutar todo el notebook
+
+// TODO - me queda la duda de si al mezclar los dos bandos distintos de asiaticos
+les estare favoreciendo y el modelo sea mejor para los asiaticos
