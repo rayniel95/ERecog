@@ -1,6 +1,3 @@
-// NOTE - me queda la duda de si es obligatorio reducir el tamano de las 
-fotos a 21x28
-
 // NOTE - tambien me queda la duda en cuanto a los mulatos, los podria encontrar 
 entre los latinos y retaggear, pero eso va a crear bias en el dataset puesto queda
 va a ver poca proporcion de mulatos con respecto a los demas.
