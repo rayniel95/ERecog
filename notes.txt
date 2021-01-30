@@ -12,3 +12,6 @@ aplicacion para ejecutar todo el notebook
 
 // TODO - me queda la duda de si al mezclar los dos bandos distintos de asiaticos
 les estare favoreciendo y el modelo sea mejor para los asiaticos
+
+// NOTE - me queda la duda de si se necesita alguna precision especifica, 
+podria meterme dias buscando el mejor modelo.
