@@ -7,11 +7,10 @@ va a ver poca proporcion de mulatos con respecto a los demas.
 // TODO - las fotos a procesar deben ser cropped tambien utilizando dlib 
 para ello o alguna otra herramienta similar.
 
-// TODO - poner en el readme about how to colocar el dataset dentro de la 
-aplicacion para ejecutar todo el notebook
-
 // TODO - me queda la duda de si al mezclar los dos bandos distintos de asiaticos
 les estare favoreciendo y el modelo sea mejor para los asiaticos
 
 // NOTE - me queda la duda de si se necesita alguna precision especifica, 
 podria meterme dias buscando el mejor modelo.
+
+// TODO - hacer transfer learnin con vgg para tener algo bien durito
